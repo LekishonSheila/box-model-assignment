@@ -1,0 +1,12 @@
+.first{
+    padding: 20px;
+    margin: 5%;
+    border-style: solid;
+    border-color: blueviolet;
+
+}
+.container{
+    border-style: dotted;
+     border-color: aqua; 
+     font-weight: bold;
+}
